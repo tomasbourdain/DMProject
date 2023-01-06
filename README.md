@@ -1,13 +1,5 @@
 # A2Z Insurance 
 
-**Students per group:** 3 maximum
-
-**Submission date:** 06-January-2023 | 23h59
-
-**Page limit:** 10 pages of content, excluding the cover page, index and appendices.
-
-**Note:** The submission of all Python code developed is mandatory.
-
 ## General Context
 
 Finding new customers is vital in every industry. The process for finding new
@@ -79,11 +71,6 @@ buying.
 5. Amount paid by the insurance company (€)/ Premiums (€) Note: in the last 2 years
 6. Annual Premiums (2016). Negative premiums may manifest reversals occurred in the current year, paid in previous one(s).
 
-Notice the data was stored in a SAS database file. There may be some intricacies when
-reading this file type using Python. Make sure the data is being
-imported properly and that you remove (before or after converting it to a
-pandas data frame) any irrelevant rows/columns you may find.
-
 ## Expected outcomes
 
 1. Explore the data and identify the variables that should be used to segment customers.
@@ -92,8 +79,4 @@ pandas data frame) any irrelevant rows/columns you may find.
 4. Explain the clusters found.
 5. Suggest business applications for the findings and define general marketing
    approaches for each cluster.
-
-**Note:** Invest time into evaluating your preprocessing pipeling, thinking
-how you want to do your clustering, possible approaches, and advantages or
-disadvantages of different decisions.
 
